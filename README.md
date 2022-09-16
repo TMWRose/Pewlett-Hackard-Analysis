@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-In this module, we helped Booby, and HR analyst from Pewlett Hackard, analyze data to answer questions about upcoming vacancies in the company from impending retirements. The company wanted to know who was retiring and how many vacancies would need to be filled. They want to then use this data to find who would be eligible for retirement packages. 
+In this module, we helped Booby, a HR analyst from Pewlett Hackard, analyze data to answer questions about upcoming vacancies in the company from impending retirements. The company wanted to know who was retiring and how many vacancies would need to be filled. They want to then use this data to find who would be eligible for retirement packages. 
 
 ## Results
 
@@ -11,7 +11,7 @@ In this module, we helped Booby, and HR analyst from Pewlett Hackard, analyze da
 
 ### Unique Titles
 ![Snapshot of individual employees and their titles](https://user-images.githubusercontent.com/100237685/190669843-92577c24-9baf-4047-ae94-c5c2cb0addf3.png)
-- This table has the names employee numbers, and titles of all upcoming retirees.
+- This table has the names, employee numbers, and titles of all upcoming retirees.
 
 ### Retiring Titles
 ![All Retirement Titles](https://user-images.githubusercontent.com/100237685/190668509-0df4289c-b5d3-4355-a0c3-d3ed02388371.png)
