@@ -7,16 +7,19 @@
 
 ### Retirement Titles
 ![Count of retirements by year](https://user-images.githubusercontent.com/100237685/190671683-36f4ba90-6d78-4390-9b0b-7e59d38f2ffc.png)
-
+- The number of retirees have been steadily increasing each year, but that number has skyrocked for upcoming retireees. It may be that the number is sqwed because the last count of retireees was in 2002, but that would depend on when this data was captured. 
 
 ### Unique Titles
 ![Snapshot of individual employees and their titles](https://user-images.githubusercontent.com/100237685/190669843-92577c24-9baf-4047-ae94-c5c2cb0addf3.png)
+- This table has the names employee numbers, and titles of all upcoming retirees.
 
 ### Retiring Titles
 ![All Retirement Titles](https://user-images.githubusercontent.com/100237685/190668509-0df4289c-b5d3-4355-a0c3-d3ed02388371.png)
+- This table shows the titles held by all retireing personell. A signifigant portion of retirees are senior staff. 
 
 ### Mentorship Eligibility
 ![Count of Mentors by Title](https://user-images.githubusercontent.com/100237685/190668110-397cbe00-1369-484e-944f-6896ba9ff22f.png)
+- Of the retering personal, this table shows how many are eligible for mentorship eligibility. There seems to be a deficiet of eligible mentors for Assiatant Engineer and Technique Leader positions. 
 
 
 ## Summary
