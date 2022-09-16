@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-
+In this module, we helped Booby, and HR analyst from Pewlett Hackard, analyze data to answer questions about upcoming vacancies in the compnay from impending retirements. The company wanted to know who was retiring and how many vacancies would need to be filled. They want to then use this data to find who would be eligible for retirement packages. 
 
 ## Results
 
